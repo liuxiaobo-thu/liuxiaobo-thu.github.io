@@ -37,12 +37,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Awards & Honors
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Tsinghua Future Scholar Scholarship (2024)
+* Tsinghua Graduate Comprehensive Scholarship, First Prize (2025) and Second Prize (2024)
+* National Award, China University Computer Competition — Big Data Challenge, Team Leader (2024)
+* Third Prize, WeChat Mini Program Development Competition (2020)
+* Gold Medal, China Chemistry Olympiad (2017)
 Service and leadership
 ======
 * Journal reviewer: *Mind, Brain, and Education*, *Acta Psychologica*

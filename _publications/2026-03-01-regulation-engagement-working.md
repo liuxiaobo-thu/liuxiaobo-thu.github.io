@@ -7,5 +7,8 @@ date: 2026-03-01
 venue: 'Working Paper'
 citation: 'Zhang, Y., Yang, Z., & Liu, X. (2026). Integrating Regulation into Classroom Engagement. Working paper.'
 ---
-This working paper integrates self-regulation constructs into the conceptualization of classroom engagement. Combining deductive theory-driven and inductive data-driven approaches, the paper proposes a unified framework and empirical evidence linking regulatory processes with engagement dynamics in classrooms.
+Classroom engagement and self-regulated learning are typically studied as separate constructs, yet they are deeply intertwined. This working paper integrates regulation into the conceptualization of classroom engagement using both deductive and inductive approaches.
+
+The deductive strand draws on self-regulation theory to specify how regulatory processes (goal setting, monitoring, control) manifest in engaged behavior. The inductive strand analyzes classroom observation and multimodal data to identify regulatory patterns that emerge naturally in engagement. By triangulating the two approaches, the paper proposes a unified framework linking regulatory processes with engagement dynamics, supported by empirical evidence from real classrooms. The work contributes to theory development and provides a foundation for measuring regulation-in-action.
+
 *Working paper*

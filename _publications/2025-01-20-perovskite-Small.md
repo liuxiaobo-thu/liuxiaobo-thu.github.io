@@ -7,5 +7,8 @@ date: 2025-01-20
 venue: 'Small, 21(3), 2406568 (SCI Q1)'
 citation: 'Jiang, L., Tang, H., He, J., Liu, X., et al., & Dong, G. (2025). Synergistic Doping Strategy... Small, 21(3), 2406568.'
 ---
-This materials science paper (from the author's chemistry background) develops a synergistic doping strategy using a novel multi-carbonyl conductive polymer to achieve stable self-powered perovskite photodetectors. The work addresses stability issues in perovskite optoelectronics through interfacial engineering and demonstrates enhanced device performance.
+This materials science paper reflects the author's chemistry background and addresses a fundamental challenge in perovskite optoelectronics: device instability. The study develops a synergistic doping strategy using a novel multi-carbonyl conductive polymer to achieve stable self-powered perovskite photodetectors.
+
+The research combines interfacial engineering with conductive polymer doping to suppress defect formation and halide migration, the main causes of perovskite degradation. Devices fabricated with the strategy show significantly improved stability and photodetection performance under ambient conditions. The work contributes to the development of stable, self-powered optoelectronic devices and demonstrates the value of cross-disciplinary materials design.
+
 *Small, 21(3), 2406568 (SCI JCR Q1)*

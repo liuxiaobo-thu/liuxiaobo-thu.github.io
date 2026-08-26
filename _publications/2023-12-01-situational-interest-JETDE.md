@@ -8,5 +8,8 @@ venue: 'Journal of Educational Technology Development and Exchange, 16(2), 156-1
 paperurl: 'https://doi.org/10.18785/jetde.1602.07'
 citation: 'Liu, X., Ye, J., & Zhang, Y. (2023). Multimodal neurophysiological representations of high school students'''' situational interest. JETDE, 16(2), 156-171.'
 ---
-This study applies machine learning to multimodal neurophysiological signals (EEG and peripheral physiology) to predict and characterize high school students' situational interest during classroom learning. The models identify the most informative physiological channels and demonstrate the feasibility of automatic interest detection, with implications for adaptive learning technologies and educational data mining.
+Situational interest is a key driver of engagement and learning, but its measurement has largely relied on self-report questionnaires that interrupt the learning flow. This study explores whether high school students' situational interest can be modeled from multimodal neurophysiological signals using machine learning.
+
+Data were collected from students during actual classroom instruction, capturing EEG and peripheral physiological responses alongside self-reported interest. The study trains and evaluates classification models to identify the most informative physiological channels for interest detection, and analyzes which signal features best discriminate interest states. The models achieve promising accuracy, demonstrating the feasibility of automatic, unobtrusive interest detection. The work contributes to real-time learner-state monitoring and opens pathways for adaptive learning technologies that respond to students' interest dynamics.
+
 *Journal of Educational Technology Development and Exchange, 16(2), 156-171*
