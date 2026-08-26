@@ -5,7 +5,7 @@ permalink: /publication/2024-06-01-short-video-addiction-ICLS
 excerpt: 'Investigates neural correlates of short-video addiction and executive functions in adolescents.'
 date: 2024-06-01
 venue: 'Proceedings of the 18th ICLS 2024, pp. 147-153'
-paperurl: ''
+paperurl: '/files/short_video_addiction_ICLS2024.pdf'
 citation: 'Xu, Z., Liu, X., Chen, J., & Zhang, Y. (2024). Neural Correlates of Short-Video Application Addiction. ICLS 2024, 147-153.'
 ---
 Investigates neural correlates of short-video addiction and executive functions in adolescents.

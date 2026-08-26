@@ -11,10 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-<p>DEBUG: site.publications.size = {{ site.publications.size }}</p>
-<p>DEBUG: site.collections keys = {% for c in site.collections %}{{ c[0] }},{% endfor %}</p>
+<p>DEBUG publications size: {{ site.publications | size }}</p>
+<p>DEBUG talks size: {{ site.talks | size }}</p>
 
 {% for post in site.publications reversed %}
-  <p>DEBUG item: {{ post.title }}</p>
   {% include archive-single.html %}
 {% endfor %}

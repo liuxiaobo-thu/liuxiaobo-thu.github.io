@@ -5,7 +5,7 @@ permalink: /publication/2025-01-25-achievement-differences-bioRxiv
 excerpt: 'Examines achievement-based differences in cognitive-emotional interplay using multimodal data and experience sampling.'
 date: 2025-01-25
 venue: 'bioRxiv (Preprint)'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2025.01.23.634609'
+paperurl: '/files/achievement_differences_bioRxiv2025.pdf'
 citation: 'Liu, X., Fu, L., Yang, Z., Zhang, Z., & Zhang, Y. (2025). Achievement-Based Differences in Cognitive-Emotional Interplay During Classroom Learning. bioRxiv.'
 ---
 Examines achievement-based differences in cognitive-emotional interplay using multimodal data and experience sampling.
