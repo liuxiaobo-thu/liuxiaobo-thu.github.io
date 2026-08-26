@@ -6,7 +6,7 @@ excerpt: 'Studies the role of situational interest in classroom learning across 
 date: 2022-09-20
 venue: 'bioRxiv (Preprint)'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2022.09.17.508364'
-citation: 'Ye, J., Liu, X., Wei, J., & Zhang, Y. (2022). The Role of Students' Situational Interest in Classroom Learning. bioRxiv.'
+citation: 'Ye, J., Liu, X., Wei, J., & Zhang, Y. (2022). The Role of Students'' Situational Interest in Classroom Learning. bioRxiv.'
 ---
 Studies the role of situational interest in classroom learning across laboratory and naturalistic paradigms.
 
