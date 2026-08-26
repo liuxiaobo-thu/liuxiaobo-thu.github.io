@@ -15,3 +15,9 @@ Experience sampling is a powerful method for understanding learners' moment-to-m
 The proposed interface allows learners to continuously adjust a difficulty indicator while watching instructional videos, minimizing disruption and enabling fine-grained tracking of difficulty dynamics. The study evaluates the interface for usability, annotation validity, and data quality against traditional discrete sampling methods. Results show that continuous annotation captures richer difficulty trajectories with lower perceived burden. The work provides a practical tool for studying perceived difficulty in video-based learning and supports research on adaptive video instruction.
 
 *Proceedings of the 17th CSCL 2024, pp. 347-348*
+
+![Figure](/images/papers/perceived_difficulty_CSCL2024-1.png){: .align-center width='90%'}
+
+
+![Figure](/images/papers/perceived_difficulty_CSCL2024-2.png){: .align-center width='90%'}
+

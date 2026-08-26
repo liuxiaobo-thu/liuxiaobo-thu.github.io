@@ -15,3 +15,9 @@ The rise of short-video platforms has raised concerns about adolescent digital w
 Using neurophysiological measurements alongside addiction questionnaires and executive function tasks, the study identifies neural signatures associated with addictive use patterns. Results suggest that excessive short-video use is linked to altered neural processing and weaker executive control, particularly in inhibition and working memory domains. The findings highlight the educational and developmental risks of problematic media use and inform interventions for adolescent digital health.
 
 *Proceedings of the 18th ICLS 2024, pp. 147-153*
+
+![Figure](/images/papers/short_video_addiction_ICLS2024-1.png){: .align-center width='90%'}
+
+
+![Figure](/images/papers/short_video_addiction_ICLS2024-2.png){: .align-center width='90%'}
+

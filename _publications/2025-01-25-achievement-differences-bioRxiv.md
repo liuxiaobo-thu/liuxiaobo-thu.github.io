@@ -15,3 +15,9 @@ Understanding how cognitive and emotional processes interact during learning is 
 Using multimodal neurophysiological recordings synchronized with experience sampling, the study tracks students' cognitive load and emotional states across lessons and compares high- and low-achieving students. The results reveal distinct patterns of cognitive-emotional coupling between groups, with high achievers showing more adaptive regulatory dynamics. The combination of physiological and subjective measures captures processes that neither alone can reveal. The findings have implications for understanding individual differences in learning regulation and for designing differentiated instructional support.
 
 *Preprint, bioRxiv*
+
+![Figure](/images/papers/achievement_differences_bioRxiv2025-01.png){: .align-center width='90%'}
+
+
+![Figure](/images/papers/achievement_differences_bioRxiv2025-02.png){: .align-center width='90%'}
+

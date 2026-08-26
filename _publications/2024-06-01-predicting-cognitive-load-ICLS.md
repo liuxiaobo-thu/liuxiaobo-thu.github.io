@@ -15,3 +15,9 @@ Real-time cognitive load monitoring could enable adaptive instruction, but pract
 The study records EEG and physiological signals from students in genuine lessons and trains classifiers to distinguish load states. Results show that physiological features serve as reliable predictors of cognitive load, with ensemble models achieving robust performance across students. The paper also examines feature importance, identifying which signals contribute most to load prediction. The work demonstrates the feasibility of unobtrusive, continuous load estimation in classrooms and supports future development of load-aware adaptive learning environments.
 
 *Proceedings of the 18th ICLS 2024, pp. 991-994*
+
+![Figure](/images/papers/predicting_cognitive_load_ICLS2024-1.png){: .align-center width='90%'}
+
+
+![Figure](/images/papers/predicting_cognitive_load_ICLS2024-2.png){: .align-center width='90%'}
+

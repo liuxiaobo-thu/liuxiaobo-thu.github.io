@@ -15,3 +15,9 @@ Learner agency and autonomy are central constructs in education, but their conce
 Analyzing a massive corpus of academic texts, the study uses LLMs to extract and cluster the semantic dimensions of agency and autonomy, revealing how different research traditions conceptualize these constructs. The large-scale analysis uncovers systematic blind spots: current measurement instruments and generative AI research both overlook key dimensions of learner agency, particularly its contextual and relational aspects. The paper proposes a more comprehensive conceptualization grounded in the semantic evidence and discusses implications for both assessment design and AI-based learning tools.
 
 *Preprint, arXiv*
+
+![Figure](/images/papers/learner_agency_arXiv2026-01.png){: .align-center width='90%'}
+
+
+![Figure](/images/papers/learner_agency_arXiv2026-02.png){: .align-center width='90%'}
+

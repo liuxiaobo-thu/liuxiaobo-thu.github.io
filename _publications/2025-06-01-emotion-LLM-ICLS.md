@@ -15,3 +15,9 @@ Understanding emotion-related individual differences in daily life is crucial fo
 The study applies LLM-based text analysis to adolescents' self-reports and communications, extracting emotional states and individual difference patterns at scale. The analysis demonstrates how LLMs can complement traditional instruments by capturing nuanced emotional language and identifying stable individual differences across contexts. Results show distinct emotion profiles among adolescents and highlight the promise of LLM-based approaches for educational and psychological research on daily emotional experience.
 
 *Proceedings of the 19th ICLS 2025, pp. 1394-1398*
+
+![Figure](/images/papers/emotion_LLM_ICLS2025-1.png){: .align-center width='90%'}
+
+
+![Figure](/images/papers/emotion_LLM_ICLS2025-2.png){: .align-center width='90%'}
+

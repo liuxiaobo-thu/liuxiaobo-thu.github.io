@@ -15,3 +15,9 @@ Human-AI collaborative problem solving is emerging as a core competency of the A
 Analyzing large-scale collaboration data from human-AI dyads, the study identifies distinct interaction profiles—ranging from AI-dominant to learner-dominant configurations—and reveals the regulatory strategies learners employ to manage the collaboration. The analysis shows how cognitive work is distributed between human and AI and how learners monitor and adjust the partnership over time. The paper offers a framework for characterizing productive human-AI collaboration and was recognized with the Best Paper Award at AERA 2026. Findings have direct implications for designing collaborative AI tools and fostering AI literacy in education.
 
 *Journal of Research on Technology in Education (SSCI Q1)*
+
+![Figure](/images/papers/human_ai_interaction_arXiv2026-01.png){: .align-center width='90%'}
+
+
+![Figure](/images/papers/human_ai_interaction_arXiv2026-02.png){: .align-center width='90%'}
+
