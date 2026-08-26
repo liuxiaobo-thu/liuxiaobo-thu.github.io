@@ -7,7 +7,8 @@ date: 2025-01-25
 venue: 'bioRxiv (Preprint)'
 paperurl: '/files/achievement_differences_bioRxiv2025.pdf'
 citation: 'Liu, X., Fu, L., Yang, Z., Zhang, Z., & Zhang, Y. (2025). Achievement-Based Differences in Cognitive-Emotional Interplay During Classroom Learning. bioRxiv.'
----Using multimodal neurophysiological recordings synchronized with experience sampling, this study investigates how high- and low-achieving students differ in the temporal dynamics of cognitive-emotional interplay during real classroom learning. The findings reveal distinct regulatory patterns between groups and highlight the value of combining physiological and subjective measures for understanding individual differences in learning processes.
+---
+Using multimodal neurophysiological recordings synchronized with experience sampling, this study investigates how high- and low-achieving students differ in the temporal dynamics of cognitive-emotional interplay during real classroom learning. The findings reveal distinct regulatory patterns between groups and highlight the value of combining physiological and subjective measures for understanding individual differences in learning processes.
 *Preprint, bioRxiv*
 
 ![Figure](/images/papers/achievement_differences_bioRxiv2025-01.png){: .align-center width='90%'}

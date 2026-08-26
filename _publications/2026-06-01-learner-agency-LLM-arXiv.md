@@ -7,7 +7,8 @@ date: 2026-06-01
 venue: 'arXiv (Preprint) — Co-first author'
 paperurl: '/files/learner_agency_arXiv2026.pdf'
 citation: 'Qin, F., Liu, X., Zhang, Y., Li, X., Wang, F., Cukurova, M., Chen, J., & Zhang, Y. (2026). Large-scale Semantic Mapping of Learner Agency and Autonomy. arXiv.'
----This study applies large language models to semantically map how learner agency and autonomy are discussed across a massive corpus of educational research. The large-scale analysis reveals systematic blind spots in both current measurement approaches and generative AI research on learner agency, proposing a more comprehensive conceptualization. Co-first author work.
+---
+This study applies large language models to semantically map how learner agency and autonomy are discussed across a massive corpus of educational research. The large-scale analysis reveals systematic blind spots in both current measurement approaches and generative AI research on learner agency, proposing a more comprehensive conceptualization. Co-first author work.
 *Preprint, arXiv*
 
 ![Figure](/images/papers/learner_agency_arXiv2026-01.png){: .align-center width='90%'}

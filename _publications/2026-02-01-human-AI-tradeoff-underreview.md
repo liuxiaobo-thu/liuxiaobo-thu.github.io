@@ -6,5 +6,6 @@ excerpt: 'A randomized controlled study on the trade-off between cognitive effic
 date: 2026-02-01
 venue: 'Educational Psychology — Under Review'
 citation: 'Hao, Z., Liu, X., Fan, J., Yu, J., Chen, W., & Zhang, Y. (2026). The High Cognitive Efficiency-Low Social Connection Trade-off. Educational Psychology (Under Review).'
----This randomized controlled study compares the dynamics of human-human and human-AI collaboration, revealing a systematic trade-off: AI partners improve cognitive efficiency but weaken perceived social connection. The paper tracks how this trade-off evolves over time and discusses design implications for collaborative learning environments.
+---
+This randomized controlled study compares the dynamics of human-human and human-AI collaboration, revealing a systematic trade-off: AI partners improve cognitive efficiency but weaken perceived social connection. The paper tracks how this trade-off evolves over time and discusses design implications for collaborative learning environments.
 *Under review, Educational Psychology*
