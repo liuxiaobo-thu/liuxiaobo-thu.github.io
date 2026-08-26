@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Education**, Tsinghua University, School of Education, 2024 – present (transferred from M.A. program, 2022–2024)
+  * Supervisor: Prof. Yu Zhang
+  * Certificate: Big Data Capability Enhancement Program (School of Software, Tsinghua)
+  * GPA: 3.89/4.00
+* **B.S. in Chemistry**, Tsinghua University, Department of Chemistry, 2018–2022
+  * Certificates: Learning Sciences and Technology; Intelligence and Optimization; AI Innovation and Entrepreneurship
+  * GPA: 3.82/4.00
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2024–2026: Teaching Assistant**, Quantitative Educational Research Methods (II), Tsinghua University
+* **Reviewer**: *Mind, Brain, and Education*, *Acta Psychologica*, AERA / ICLS / CSCL
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Multimodal data collection and analysis (EEG, physiological signals, experience sampling)
+* Machine learning and deep learning (Python, scikit-learn, PyTorch)
+* Educational statistics and quantitative methods (SEM, multilevel models, causal inference)
+* Large language models and prompt engineering
 
 Publications
 ======
@@ -61,4 +51,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Journal reviewer: *Mind, Brain, and Education*, *Acta Psychologica*
+* Conference reviewer: AERA, ICLS, CSCL
+* Teaching assistant: Quantitative Educational Research Methods (II), 2024–2026
