@@ -1,6 +1,8 @@
 ---
 title: "The High Cognitive Efficiency-Low Social Connection Trade-off: A Randomized Controlled Study on the Dynamics of Human-Human vs. Human-AI Collaboration"
 collection: publications
+header:
+  teaser: paper-icon.png
 permalink: /publication/2026-02-01-human-AI-tradeoff-underreview
 excerpt: 'A randomized controlled study on the trade-off between cognitive efficiency and social connection in human-human versus human-AI collaboration dynamics.'
 date: 2026-02-01

@@ -1,6 +1,8 @@
 ---
 title: "Multimodal Neurophysiological Representations of High School Students' Situational Interest: A Machine Learning Approach"
 collection: publications
+header:
+  teaser: paper-icon.png
 permalink: /publication/2023-12-01-situational-interest-JETDE
 excerpt: 'A machine learning approach that models high school students'' situational interest using multimodal neurophysiological data, revealing neural and physiological markers of interest in classroom learning.'''' situational interest.'
 date: 2023-12-01

@@ -1,6 +1,8 @@
 ---
 title: "Can AI Instructional Agents Better Foster Student Engagement? A Multimodal Neurophysiological Comparison with Human Teachers"
 collection: publications
+header:
+  teaser: paper-icon.png
 permalink: /publication/2026-04-01-AI-instructional-agents-AERA
 excerpt: 'Compares AI instructional agents with human teachers in fostering student engagement, using multimodal neurophysiological measurements in a controlled comparison.'
 date: 2026-04-01

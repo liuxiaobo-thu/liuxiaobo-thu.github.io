@@ -1,6 +1,8 @@
 ---
 title: "Integrating Regulation into Classroom Engagement: from both Deductive and Inductive Approaches"
 collection: publications
+header:
+  teaser: paper-icon.png
 permalink: /publication/2026-03-01-regulation-engagement-working
 excerpt: 'Integrates regulation into classroom engagement using both deductive and inductive approaches, offering a unified framework.'
 date: 2026-03-01
