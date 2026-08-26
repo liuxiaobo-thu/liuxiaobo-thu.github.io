@@ -2,7 +2,7 @@
 title: "Seeing the Same Landscape? Teachers' Representations of Students' Subjective Classroom Experiences"
 collection: publications
 header:
-  teaser: paper-icon.png
+  teaser: papers/paper-icon.png
 permalink: /publication/2026-05-01-teachers-representations-working
 excerpt: 'Examines whether teachers and students share the same representations of students'' subjective classroom experiences.'''' representations of students'''' subjective classroom experiences.'
 date: 2026-05-01

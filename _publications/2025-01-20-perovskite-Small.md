@@ -2,7 +2,7 @@
 title: "Synergistic Doping Strategy with Novel Multi-Carbonyl Conductive Polymer Enables Stable Self-Powered Perovskite Photodetectors"
 collection: publications
 header:
-  teaser: paper-icon.png
+  teaser: papers/paper-icon.png
 permalink: /publication/2025-01-20-perovskite-Small
 excerpt: 'Chemistry research: a synergistic doping strategy with a novel multi-carbonyl conductive polymer for stable self-powered perovskite photodetectors (SCI Q1).'
 date: 2025-01-20

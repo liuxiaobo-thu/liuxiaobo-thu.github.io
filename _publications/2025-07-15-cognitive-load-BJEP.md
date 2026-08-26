@@ -2,7 +2,7 @@
 title: "Re-examining Cognitive Load Measures in Real-classroom Learning: Evidence from both Subjective and Neurophysiological Data"
 collection: publications
 header:
-  teaser: paper-icon.png
+  teaser: papers/paper-icon.png
 permalink: /publication/2025-07-15-cognitive-load-BJEP
 excerpt: 'This study re-examines the validity of cognitive load measures in authentic classroom settings, combining subjective self-reports with neurophysiological data to evaluate whether traditional measures capture the dynamics of real-world learning.'
 date: 2025-07-15
