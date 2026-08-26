@@ -2,7 +2,7 @@
 title: "Large-scale Semantic Mapping of Learner Agency and Autonomy Reveals What Measurement and Generative AI Research Overlook"
 collection: publications
 header:
-  teaser: /images/papers/learner_agency_arXiv2026-01.png
+  teaser: papers/learner_agency_arXiv2026-01.png
 permalink: /publication/2026-06-01-learner-agency-LLM-arXiv
 excerpt: 'Large-scale semantic mapping of learner agency and autonomy using large language models, revealing blind spots in current measurement and generative AI research (co-first author).'
 date: 2026-06-01

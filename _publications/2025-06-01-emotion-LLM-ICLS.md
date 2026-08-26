@@ -2,7 +2,7 @@
 title: "Exploring Emotion-related Individual Difference in Adolescents' Daily Lives: An Analysis Using Large Language Models"
 collection: publications
 header:
-  teaser: /images/papers/emotion_LLM_ICLS2025-1.png
+  teaser: papers/emotion_LLM_ICLS2025-1.png
 permalink: /publication/2025-06-01-emotion-LLM-ICLS
 excerpt: 'Uses large language models to explore emotion-related individual differences in adolescents'' daily lives based on text data.'''' daily lives.'
 date: 2025-06-01

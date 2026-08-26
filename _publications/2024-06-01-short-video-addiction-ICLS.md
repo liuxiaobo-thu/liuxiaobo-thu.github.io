@@ -2,7 +2,7 @@
 title: "Neural Correlates of Short-Video Application Addiction and Adolescents' Executive Functions"
 collection: publications
 header:
-  teaser: /images/papers/short_video_addiction_ICLS2024-1.png
+  teaser: papers/short_video_addiction_ICLS2024-1.png
 permalink: /publication/2024-06-01-short-video-addiction-ICLS
 excerpt: 'Investigates the neural correlates of short-video application addiction and their relationship with adolescents'' executive functions.'
 date: 2024-06-01

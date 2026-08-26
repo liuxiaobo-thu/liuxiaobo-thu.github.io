@@ -2,7 +2,7 @@
 title: "The Role of Students' Situational Interest in Classroom Learning: An Empirical Study based on both Laboratory and Naturalistic Paradigms"
 collection: publications
 header:
-  teaser: /images/papers/situational_interest_bioRxiv2022-01.png
+  teaser: papers/situational_interest_bioRxiv2022-01.png
 permalink: /publication/2022-09-20-situational-interest-bioRxiv
 excerpt: 'Empirical study of situational interest in classroom learning across laboratory and naturalistic paradigms, modeling interest dynamics with physiological data.'
 date: 2022-09-20

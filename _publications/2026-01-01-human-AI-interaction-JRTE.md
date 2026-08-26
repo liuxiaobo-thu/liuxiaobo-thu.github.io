@@ -2,7 +2,7 @@
 title: "Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective"
 collection: publications
 header:
-  teaser: /images/papers/human_ai_interaction_arXiv2026-01.png
+  teaser: papers/human_ai_interaction_arXiv2026-01.png
 permalink: /publication/2026-01-01-human-AI-interaction-JRTE
 excerpt: 'Unpacks interaction profiles and strategies in human-AI collaborative problem solving from a cognitive distribution and regulation perspective. Best Paper Award at AERA 2026.'
 date: 2026-01-01

@@ -2,7 +2,7 @@
 title: "Predicting Cognitive Load with Multimodal Neurophysiological Data in Real-World Classroom Learning"
 collection: publications
 header:
-  teaser: /images/papers/predicting_cognitive_load_ICLS2024-1.png
+  teaser: papers/predicting_cognitive_load_ICLS2024-1.png
 permalink: /publication/2024-06-01-predicting-cognitive-load-ICLS
 excerpt: 'Predicts cognitive load in real-world classrooms using multimodal neurophysiological data, demonstrating the feasibility of unobtrusive load monitoring during authentic learning.'
 date: 2024-06-01

@@ -2,7 +2,7 @@
 title: "Achievement-Based Differences in Cognitive-Emotional Interplay During Classroom Learning: A Multimodal Analysis with Experience Sampling Method"
 collection: publications
 header:
-  teaser: /images/papers/achievement_differences_bioRxiv2025-01.png
+  teaser: papers/achievement_differences_bioRxiv2025-01.png
 permalink: /publication/2025-01-25-achievement-differences-bioRxiv
 excerpt: 'Examines achievement-based differences in the interplay between cognitive and emotional processes during classroom learning, using multimodal data combined with experience sampling.'
 date: 2025-01-25

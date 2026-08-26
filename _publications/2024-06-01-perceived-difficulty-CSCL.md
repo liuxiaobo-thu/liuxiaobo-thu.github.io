@@ -2,7 +2,7 @@
 title: "Real-time Continuous Perceived Difficulty Annotation during Video Learning Using a More Natural Interface"
 collection: publications
 header:
-  teaser: /images/papers/perceived_difficulty_CSCL2024-1.png
+  teaser: papers/perceived_difficulty_CSCL2024-1.png
 permalink: /publication/2024-06-01-perceived-difficulty-CSCL
 excerpt: 'Introduces a more natural interface for continuous real-time annotation of perceived difficulty during video learning, addressing usability barriers in learner experience sampling.'
 date: 2024-06-01
