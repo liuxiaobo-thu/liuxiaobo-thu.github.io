@@ -5,7 +5,6 @@ permalink: /publication/2025-01-20-perovskite-Small
 excerpt: 'Chemistry research: synergistic doping strategy for stable perovskite photodetectors.'
 date: 2025-01-20
 venue: 'Small, 21(3), 2406568 (SCI Q1)'
-paperurl: ''
 citation: 'Jiang, L., Tang, H., He, J., Liu, X., et al., & Dong, G. (2025). Synergistic Doping Strategy... Small, 21(3), 2406568.'
 ---
 Chemistry research: synergistic doping strategy for stable perovskite photodetectors.

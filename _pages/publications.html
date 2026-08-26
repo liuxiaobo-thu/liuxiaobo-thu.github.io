@@ -11,9 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<p>DEBUG publications size: {{ site.publications | size }}</p>
-<p>DEBUG talks size: {{ site.talks | size }}</p>
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
